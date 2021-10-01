@@ -4,7 +4,7 @@ pla prints
 
 This parametrized Incubator is intended to be printed with pla with any common 3D printer. 
 
-[Parabroot]: parabroot.png
+[Parabroot]: https://github.com/mommel/para-broot/raw/main/paraboot.png "Parabroot default incubator"
 
 # License
 The files included in this project and the models created with it are licensed under
