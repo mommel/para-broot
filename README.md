@@ -6,6 +6,8 @@ This parametrized Incubator is intended to be printed with pla with any common 3
 
 ![Parabroot](https://raw.githubusercontent.com/mommel/para-broot/main/paraboot.png "Parabroot default incubator")
 
+![Howto](https://raw.githubusercontent.com/mommel/para-broot/main/howto.png "Parabroot Howto")
+
 # License
 The files included in this project and the models created with it are licensed under
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
